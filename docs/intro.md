@@ -2,17 +2,16 @@
 sidebar_position: 1
 ---
 
-# Documentation Intro
+# Getting Started
 
 Let's discover **FoldSpace in less than 5 minutes**.
 
-## Getting Started
+## Deploy FoldSpace to your cluster
 
-Get started by **creating a new site**.
+Deploy using a **helm chart**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
 
-## Generate a new site
+## Install the FoldSpace Client
 
 Generate a new Docusaurus site using the **classic template**:
 
@@ -20,7 +19,7 @@ Generate a new Docusaurus site using the **classic template**:
 npx @docusaurus/init@latest init my-website classic
 ```
 
-## Start your site
+## Redirect a service to your machine
 
 Run the development server:
 
